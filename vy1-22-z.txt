@@ -1,0 +1,6 @@
+{({\bf vy1.22})
+$
+\iint\limits_{D} \frac{x^2}{x^2+y^2} $ dxdy;
+$\
+$\left | x \right | + \left | y \right |=4,$ \ x^2+y^2=1.$ 
+}

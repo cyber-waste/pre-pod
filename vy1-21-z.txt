@@ -1,0 +1,6 @@
+{({\bf vy1.21})
+$
+\iint\limits_{D} (x^2+y) dxdy;
+$\
+$y=2x,$ \ y=\frac{1}{2} $x,$ \ xy=2.$ 
+}

@@ -1,0 +1,6 @@
+{({\bf vy1.24})
+$
+\iint\limits_{D} e^{x+y} $ dxdy;
+$\ 
+$y = e^{x},$ \ x = 0,$ \ y = 2.$ 
+}
